@@ -7,7 +7,7 @@ publicItalics = true --if true will use /me to stand out
 privateProperties = { --customize private logs
     Color = Color3.fromRGB(102,0,104); 
     Font = Enum.Font.SourceSansBold;
-    TextSize = 20;
+    TextSize = 18;
 }
 
 
