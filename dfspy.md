@@ -5,9 +5,9 @@ spyOnMyself = true --if true will check your messages too
 public = false --if true will chat the logs publicly (fun, risky)
 publicItalics = true --if true will use /me to stand out
 privateProperties = { --customize private logs
-    Color = Color3.fromRGB(0,255,255); 
+    Color = Color3.fromRGB(102,0,104); 
     Font = Enum.Font.SourceSansBold;
-    TextSize = 14;
+    TextSize = 20;
 }
 
 
